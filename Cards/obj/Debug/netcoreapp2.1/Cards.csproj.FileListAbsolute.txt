@@ -1,0 +1,11 @@
+E:\csharp\net2.1\Cards\Cards\bin\Debug\netcoreapp2.1\Cards.deps.json
+E:\csharp\net2.1\Cards\Cards\bin\Debug\netcoreapp2.1\Cards.runtimeconfig.json
+E:\csharp\net2.1\Cards\Cards\bin\Debug\netcoreapp2.1\Cards.runtimeconfig.dev.json
+E:\csharp\net2.1\Cards\Cards\bin\Debug\netcoreapp2.1\Cards.dll
+E:\csharp\net2.1\Cards\Cards\bin\Debug\netcoreapp2.1\Cards.pdb
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.csprojAssemblyReference.cache
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.csproj.CoreCompileInputs.cache
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.AssemblyInfoInputs.cache
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.AssemblyInfo.cs
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.dll
+E:\csharp\net2.1\Cards\Cards\obj\Debug\netcoreapp2.1\Cards.pdb
